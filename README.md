@@ -2,11 +2,13 @@
 
 
 # Overview
+The goal of this project is to analyze trends in sales, average order value, loyalty program, and refund rates to generate insights and provide recommendations for improving growth.
+
 From 2019 to 2022, the total sales was ~$28M, average yearly sale revenue was ~$7M and the average order value (AOV) was $254. During the 2019-2022 period, sales in 2020 saw dramatic growth which can be attributed to the start of the pandemic. However, the total sales, average order value, and order count began to decline in 2022, highlighting the need to identify strategies to sustain the growth momentum achieved in 2020.
 
 
 ## ERD
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/4ddb7588-51c6-444c-bfcf-3cacdb3b110e" />
+<img width="690" height="690" alt="image" src="https://github.com/user-attachments/assets/4ddb7588-51c6-444c-bfcf-3cacdb3b110e" />
 
 
 ## Sales Trends and Growth Rates
@@ -29,7 +31,10 @@ From 2019 to 2021, the non-loyalty program customers were performing better when
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/a31d2e2e-6b0f-4b25-a39a-8ae4644c3cfe" />
 
 ## Refund Rates
-Refund rates were highest for Apple Airpods in 2020 with 1,853 headphones refunded at 9% compared to 5% in 2019 and 4% in 2021. The lowest refund rates were in 2022 at 0%, but this may be a date incompleteness issue, so I plan to follow up to understand why the refunds appear non-existent. 
+The top refunded product was the Thinkpad Laptop at 11.7%. Macbook Air and Apple iPhone also have high refund rates at 11.4% and 7.6%. Refund rates were highest for Apple Airpods in 2020 with 1,529 headphones refunded at 9% compared to 5% in 2019 and 4% in 2021. The lowest refund rates were in 2022 at 0%, but this may be a date incompleteness issue, so I plan to follow up to understand why the refunds appear non-existent. 
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/538da20b-b6b9-48c0-b24b-37d3298da080" />
+
 
 ## Recommendations
 
@@ -38,6 +43,9 @@ Since current sales are driven primarily by monitors, headphones, and laptops, i
 
 ### Loyalty Program:
 It is recommended that the loyalty program be continued, as there has been an increase in orders contributing to higher sales. The program also generates valuable data on customer purchasing behavior, which can inform future sales strategies. 
+
+### Operational Effectiveness:
+While delivery times across all regions were similar at an average of 7.5 days, EMEA experienced the longest delivery times. As business continues to grow globally, consider evaluating other delivery partners to ensure faster, more consistent shipping that meets increasing customer expectations.
 
 
 
