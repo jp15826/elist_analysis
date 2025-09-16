@@ -2,8 +2,9 @@
 
 
 # Overview
-The goal of this project is to analyze trends in sales, average order value, loyalty program, and refund rates to generate insights and provide recommendations for improving growth.
+The goal of this project is to investigate trends in sales, average order value, the loyalty program, and refund rates to provide insights into the business' performance across key areas. Based on these insights, recommendations are provided on where the business should focus efforts to drive growth.
 
+**Summary:** 
 From 2019 to 2022, the total sales was ~$28M, average yearly sale revenue was ~$7M and the average order value (AOV) was $254. During the 2019-2022 period, sales in 2020 saw dramatic growth which can be attributed to the start of the pandemic. However, the total sales, average order value, and order count began to decline in 2022, highlighting the need to identify strategies to sustain the growth momentum achieved in 2020.
 
 
@@ -39,13 +40,13 @@ The top refunded product was the Thinkpad Laptop at 11.7%. Macbook Air and Apple
 ## Recommendations
 
 ### Products:
-Since current sales are driven primarily by monitors, headphones, and laptops, it is recommended to focus on similar product categories to strengthen sales and market reach. If cuts are necessary, discontinuing Bose headphones, Samsung product lines, and the Apple iPhone should be considered.
+* Since current sales are driven primarily by monitors, headphones, and laptops, it is recommended to focus on similar product categories to strengthen sales and market reach. If cuts are necessary, discontinuing Bose headphones, Samsung product lines, and the Apple iPhone should be considered.
 
 ### Loyalty Program:
-It is recommended that the loyalty program be continued, as there has been an increase in orders contributing to higher sales. The program also generates valuable data on customer purchasing behavior, which can inform future sales strategies. 
+* It is recommended that the loyalty program be continued, as there has been an increase in orders contributing to higher sales. The program also generates valuable data on customer purchasing behavior, which can inform future sales strategies. 
 
 ### Operational Effectiveness:
-While delivery times across all regions were similar at an average of 7.5 days, EMEA experienced the longest delivery times. As business continues to grow globally, consider evaluating other delivery partners to ensure faster, more consistent shipping that meets increasing customer expectations.
+* While delivery times across all regions were similar at an average of 7.5 days, EMEA experienced the longest delivery times. As business continues to grow globally, consider evaluating other delivery partners to ensure faster, more consistent shipping that meets increasing customer expectations.
 
 
 
