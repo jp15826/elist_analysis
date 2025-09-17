@@ -37,13 +37,13 @@ From 2019 to 2020, the 27in 4K Gaming Monitor, Apple AirPods, MacBook Air, and T
 
 
 ## Loyalty Program
-From 2019 to 2021, the non-loyalty program customers were performing better when compared to the loyalty program customers, with a noticeably higher AOV    ($233–$345 vs. $207–$249). However, in 2022, the AOV for loyalty program customers rose to $245 while the non-loyalty program customers dropped to $214, creating a $30 increase over the non-loyalty program customers. Additionally, there has been an increasingly upward trend in order count for the loyalty program customers over the years, so I recommend keeping the loyalty program.
+From 2019 to 2021, the non-loyalty program customers were performing better when compared to the loyalty program customers, with a noticeably higher AOV    ($233–$345 vs. $207–$249). However, in 2022, the AOV for loyalty program customers rose to $245 while the non-loyalty program customers dropped to $214, creating a $30 increase over the non-loyalty program customers. Additionally, there has been an increasingly upward trend in order count for the loyalty program customers over the years, so it is recommended to keep the loyalty program.
 <p align="center">
   <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/a31d2e2e-6b0f-4b25-a39a-8ae4644c3cfe" />
 </p>
 
 ## Refund Rates
-The top refunded product was the Thinkpad Laptop at 11.7%. Macbook Air and Apple iPhone also have high refund rates at 11.4% and 7.6%. Refund rates were highest for Apple Airpods in 2020 with 1,529 headphones refunded at 9% compared to 5% in 2019 and 4% in 2021. The lowest refund rates were in 2022 at 0%, but this may be a date incompleteness issue or an implementation of a no-refund policy. If a no-refund policy was implemented, it may have affected customer satisfaction, potentially contributing to the decline in sales, and should be considered when identifying strategies to restore growth.
+The top refunded product was the Thinkpad Laptop at 11.7%. Macbook Air and Apple iPhone also have high refund rates at 11.4% and 7.6%. Refund rates were highest for Apple Airpods in 2020 with 1,529 headphones refunded at 9% compared to 5% in 2019 and 4% in 2021. The lowest refund rates were in 2022 at 0%, but this may be a data incompleteness issue or an implementation of a no-refund policy. If a no-refund policy was implemented, it may have affected customer satisfaction, potentially contributing to the decline in sales, and should be considered when identifying strategies to restore growth.
 <p align="center">
   <img width="370" height="370" alt="image" src="https://github.com/user-attachments/assets/538da20b-b6b9-48c0-b24b-37d3298da080" />
 <p align="center">
