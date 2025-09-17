@@ -6,12 +6,13 @@ The goal of this project is to investigate trends in sales, average order value,
 
 Founded in 2018, Elist is an e-commerce company that sells popular electronics products and has since expanded to a global customer base. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad. The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information. 
 
-**Summary:** 
-From 2019 to 2022, the total sales was ~$28M, average yearly sale revenue was ~$7M and the average order value (AOV) was $254. During the 2019-2022 period, sales in 2020 saw dramatic growth which can be attributed to the start of the pandemic. However, the total sales, average order value, and order count began to decline in 2022, highlighting the need to identify strategies to sustain the growth momentum achieved in 2020.
-
-
 ## ERD
-<img width="660" height="660" alt="image" src="https://github.com/user-attachments/assets/4ddb7588-51c6-444c-bfcf-3cacdb3b110e" />
+<p align="center">
+  <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/4ddb7588-51c6-444c-bfcf-3cacdb3b110e" />
+</p>
+
+## Summary of Insights
+From 2019 to 2022, the total sales was ~$28M, average yearly sale revenue was ~$7M and the average order value (AOV) was $254. During the 2019-2022 period, sales in 2020 saw dramatic growth which can be attributed to the start of the pandemic. However, the total sales, average order value, and order count began to decline in 2022, highlighting the need to identify strategies to sustain the growth momentum achieved in 2020.
 
 
 ## Sales Trends and Growth Rates
@@ -19,39 +20,49 @@ From 2019 to 2022, the total sales was ~$28M, average yearly sale revenue was ~$
 
 * North America leads in total sales, followed by EMEA, APAC, and LATAM, indicating that the majority of revenue is generated from the North American market.
 
+<p align="center">
+  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/364fd27f-d2c8-401b-a7b7-d1d39de391c2" />
+</p>
+<p align="center">
+  <img width="430" height="430" alt="image" src="https://github.com/user-attachments/assets/b7fa136b-04ca-489f-ae55-a13ef2162fbc" />
+</p>
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/364fd27f-d2c8-401b-a7b7-d1d39de391c2" /> 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b7fa136b-04ca-489f-ae55-a13ef2162fbc" />
 
 ## Product Trends
 
 From 2019 to 2020, the 27in 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad laptops all experienced a sharp increase in sales. The 27in 4K Gaming Monitor continued to grow slightly from 2020 to 2021, while the Apple AirPods, MacBook Air, and ThinkPad saw a decline in sales after 2020. In contrast, the Apple iPhone, Bose SoundSport Headphones, Samsung Charging Cable Pack, and Samsung Webcam maintained consistently low sales with minor fluctuations throughout 2019 to 2022.
-
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/1d450c08-34a5-40fd-8cd0-0cac79bf95b6" />
-
+<p align="center">
+  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/1d450c08-34a5-40fd-8cd0-0cac79bf95b6" />
+</p>
 
 
 ## Loyalty Program
 From 2019 to 2021, the non-loyalty program customers were performing better when compared to the loyalty program customers, with a noticeably higher AOV    ($233–$345 vs. $207–$249). However, in 2022, the AOV for loyalty program customers rose to $245 while the non-loyalty program customers dropped to $214, creating a $30 increase over the non-loyalty program customers. Additionally, there has been an increasingly upward trend in order count for the loyalty program customers over the years, so I recommend keeping the loyalty program.
-
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/a31d2e2e-6b0f-4b25-a39a-8ae4644c3cfe" />
+<p align="center">
+  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/a31d2e2e-6b0f-4b25-a39a-8ae4644c3cfe" />
+</p>
 
 ## Refund Rates
-The top refunded product was the Thinkpad Laptop at 11.7%. Macbook Air and Apple iPhone also have high refund rates at 11.4% and 7.6%. Refund rates were highest for Apple Airpods in 2020 with 1,529 headphones refunded at 9% compared to 5% in 2019 and 4% in 2021. The lowest refund rates were in 2022 at 0%, but this may be a date incompleteness issue, so I plan to follow up to understand why the refunds appear non-existent. 
-
-<img width="390" height="390" alt="image" src="https://github.com/user-attachments/assets/538da20b-b6b9-48c0-b24b-37d3298da080" />
-
+The top refunded product was the Thinkpad Laptop at 11.7%. Macbook Air and Apple iPhone also have high refund rates at 11.4% and 7.6%. Refund rates were highest for Apple Airpods in 2020 with 1,529 headphones refunded at 9% compared to 5% in 2019 and 4% in 2021. The lowest refund rates were in 2022 at 0%, but this may be a date incompleteness issue or an implementation of a no-refund policy. If a no-refund policy was implemented, it may have affected customer satisfaction, potentially contributing to the decline in sales, and should be considered when identifying strategies to restore growth.
+<p align="center">
+  <img width="370" height="370" alt="image" src="https://github.com/user-attachments/assets/538da20b-b6b9-48c0-b24b-37d3298da080" />
+<p align="center">
 
 ## Recommendations
+Based on the analysis and insights, the following recommendations are provided:
 
 ### Products:
 * Since current sales are driven primarily by monitors, headphones, and laptops, it is recommended to focus on similar product categories to strengthen sales and market reach. If cuts are necessary, discontinuing Bose headphones, Samsung product lines, and the Apple iPhone should be considered.
 
 ### Loyalty Program:
-* It is recommended that the loyalty program be continued, as there has been an increase in orders contributing to higher sales. The program also generates valuable data on customer purchasing behavior, which can inform future sales strategies. 
+* It is recommended that the loyalty program be continued, as there has been an increase in orders contributing to higher sales. The program also generates valuable data on customer purchasing behavior, which can inform future sales strategies.
+  
+### Refund Rates:
+* Identify root causes for high refund rates, particularly for products like the Thinkpad Laptop, MacBook Air, and Apple iPhone. Confirm whether the observed low refund rates are due to a no-refund policy or incomplete data.
 
 ### Operational Effectiveness:
 * While delivery times across all regions were similar at an average of 7.5 days, EMEA experienced the longest delivery times. As business continues to grow globally, consider evaluating other delivery partners to ensure faster, more consistent shipping that meets increasing customer expectations.
+  
 
 
 
