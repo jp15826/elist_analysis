@@ -18,8 +18,7 @@ From 2019 to 2022, the total sales was ~$28M, average yearly sale revenue was ~$
 ## Sales Trends and Growth Rates
 * Sales experienced significant growth from 2019 to 2020 with revenue increasing from ~$3.9M to ~$10.2M. However, this was not sustained as sales declined steadily, falling to ~$4.9M by 2022. Similarly, this can also be seen in the average order value (AOV), which peaked at $300 in 2020 but decreased to $230 in 2022. 2020 experienced the biggest growth rate across total sales revenue, AOV, and number of sales. Although 2021 experienced positive growth in the number of sales, the total sales revenue decreased by 10% as people purchased items that were less expensive by 15% than in 2020. 
 
-* North America leads in total sales, followed by EMEA, APAC, and LATAM, indicating that the majority of revenue is generated from the North American market.
-
+* North America leads in total sales, followed by EMEA, APAC, and LATAM, indicating that the majority of revenue is generated from the North American market. APAC leads LATAM in sales but fall short of NA and EMEA, with LATAM consistently underperforming across regions.
 <p align="center">
   <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/364fd27f-d2c8-401b-a7b7-d1d39de391c2" />
 </p>
@@ -32,7 +31,7 @@ From 2019 to 2022, the total sales was ~$28M, average yearly sale revenue was ~$
 
 From 2019 to 2020, the 27in 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad laptops all experienced a sharp increase in sales. The 27in 4K Gaming Monitor continued to grow slightly from 2020 to 2021, while the Apple AirPods, MacBook Air, and ThinkPad saw a decline in sales after 2020. In contrast, the Apple iPhone, Bose SoundSport Headphones, Samsung Charging Cable Pack, and Samsung Webcam maintained consistently low sales with minor fluctuations throughout 2019 to 2022.
 <p align="center">
-  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/1d450c08-34a5-40fd-8cd0-0cac79bf95b6" />
+  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/9dfd7d6a-102d-4d2e-af95-a22c23e531a9" />
 </p>
 
 
