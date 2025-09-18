@@ -29,7 +29,8 @@ From 2019 to 2022, the total sales was ~$28M, average yearly sale revenue was ~$
 
 ## Product Trends
 
-From 2019 to 2020, the 27in 4K Gaming Monitor, Apple AirPods, MacBook Air, and ThinkPad laptops all experienced a sharp increase in sales. The 27in 4K Gaming Monitor continued to grow slightly from 2020 to 2021, while the Apple AirPods, MacBook Air, and ThinkPad saw a decline in sales after 2020. In contrast, the Apple iPhone, Bose SoundSport Headphones, Samsung Charging Cable Pack, and Samsung Webcam maintained consistently low sales with minor fluctuations throughout 2019 to 2022.
+In 2022, sales of the Gaming Monitor nearly halved compared to 2021, suggesting that demand may be normalizing post-pandemic. Apple AirPods also saw a sharp decline, down 44% by 2022, which likely reflects both market saturation and the rise of cheaper competitor earbuds. The MacBook Air experienced a $2.9M spike in 2020, but sales have trended downward each year since. The top three products, Gaming Monitors, AirPods, and MacBook Air, dominated sales in 2020, highlighting demand driven by at-home setups and remote work. Webcams grew 134% YoY from 2020 to 2021, reinforcing the WFH trend, though demand has declined since 2021. Bose Headphones peaked early before entering a decline, while the charging pack, iPhone, and ThinkPad Laptop generated less than $500K each in total sales, indicating they are not core revenue drivers.
+
 <p align="center">
   <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/9dfd7d6a-102d-4d2e-af95-a22c23e531a9" />
 </p>
